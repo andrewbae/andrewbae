@@ -3,8 +3,14 @@ Hi, I'm Andrew Bae who is interested in Low-level hackings such as binary exploi
 
 * Ask me about anything [here](https://github.com/andrewbae/andrewbae/issues)
 
-### Bug Bounty
-* **NAVER Corp. - SmartEditor ONE ($200)**  
-    I discovered Stored XSS vulnerable at "SmartEditor ONE" in 2019. As a consequence, I got $200 bounty with identification number of KVE-2019-0055 
+### Bug Hunting
+* **NAVER Corp. - Smart Editor ONE**   
+    I discovered **Stored XSS** vulnerable at **SmartEditor ONE** in January 08, 2019. As a consequence, I got **$200** bounty with identification number of **KVE-2019-0055.**  
+* **Sahmyook University**   
+    Reflected XSS - December 26, 2018  
+* **Kakao I Translator**  
+    Reflected XSS - December 24, 2018   
+* **NAVER Corp. - Dictionary**   
+    Reflected XSS - December 24, 2018   
 
 ![Andrew Bae's github stats](https://github-readme-stats.vercel.app/api?username=andrewbae&show_icons=true&theme=vue)
