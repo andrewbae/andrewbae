@@ -3,6 +3,7 @@ Hi, I'm Andrew Bae who is interested in Low-level hackings such as binary exploi
 Ask me about anything [here](https://github.com/andrewbae/andrewbae/issues)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=andrewbae)](https://github.com/ryo-ma/github-profile-trophy)
+![Andrew Bae's github stats](https://github-readme-stats.vercel.app/api?username=andrewbae&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ### Bug Hunting
 * **NAVER Corp. - Smart Editor ONE**   
@@ -14,4 +15,3 @@ Ask me about anything [here](https://github.com/andrewbae/andrewbae/issues)
 * **NAVER Corp. - Dictionary**   
     Reflected XSS - December 24, 2018   
 
-![Andrew Bae's github stats](https://github-readme-stats.vercel.app/api?username=andrewbae&show_icons=true&theme=vue)
