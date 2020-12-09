@@ -1,7 +1,8 @@
 ### Greetings, visitor :wave:
-Hi, I'm Andrew Bae who is interested in Low-level hackings such as binary exploitation and reverse engineering.
+Hi, I'm Andrew Bae who is interested in Low-level hackings such as binary exploitation and reverse engineering.  
+Ask me about anything [here](https://github.com/andrewbae/andrewbae/issues)  
 
-* Ask me about anything [here](https://github.com/andrewbae/andrewbae/issues)
+[![trophy](https://github-profile-trophy.vercel.app/?username=andrewbae)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Bug Hunting
 * **NAVER Corp. - Smart Editor ONE**   
