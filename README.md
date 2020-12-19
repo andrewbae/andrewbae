@@ -1,4 +1,5 @@
 ### Greetings, visitor :wave:
+[![HitCount](http://hits.dwyl.com/andrewbae/andrewbae.svg)](http://hits.dwyl.com/andrewbae/andrewbae)  
 Hi, I'm Andrew Bae who is interested in Low-level hackings such as binary exploitation and reverse engineering.  
 Ask me about anything [here](https://github.com/andrewbae/andrewbae/issues)  
 
