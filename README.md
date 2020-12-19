@@ -1,5 +1,5 @@
 ### Greetings, visitor :wave:
-[![HitCount](http://hits.dwyl.com/andrewbae/andrewbae.svg)](http://hits.dwyl.com/andrewbae/andrewbae)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandrewbae%2Fandrewbae&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 Hi, I'm Andrew Bae who is interested in Low-level hackings such as binary exploitation and reverse engineering.  
 Ask me about anything [here](https://github.com/andrewbae/andrewbae/issues)  
 
