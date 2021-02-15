@@ -1,6 +1,18 @@
 ### Greetings, visitor :wave:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandrewbae%2Fandrewbae&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-Hi, I'm Andrew Bae who is interested in Low-level hackings such as binary exploitation and reverse engineering.  
+
+Greetings, I'm Andrew Bae who is living in South Korea.  
+
+I'm interested in English and hacking such as pwn and reverse engineering. Additionally, bug hunting is favorite too.
+
+No pain, no gain is my motto. Make motivation for my self every moment and learning painfully. That is my way.
+
+I focused on learning the heap structure for exploitation in these days.
+
+For making up good score at CTF competitions, I'm trying to solve up many hacking challenges.
+
+Every moment when I success to exploit something, that sense of achievement make me falling in hacking especially.
+
 Ask me about anything [here](https://github.com/andrewbae/andrewbae/issues)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=andrewbae)](https://github.com/ryo-ma/github-profile-trophy)
