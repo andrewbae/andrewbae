@@ -19,12 +19,12 @@ Ask me about anything [here](https://github.com/andrewbae/andrewbae/issues)
 ![Andrew Bae's github stats](https://github-readme-stats.vercel.app/api?username=andrewbae&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ### Bug Hunting
-* **NAVER Corp. - Smart Editor ONE**   
+* [**NAVER Corp. - Smart Editor ONE**](https://blog.naver.com)  
     I discovered **Stored XSS** vulnerable at **SmartEditor ONE** in January 08, 2019. As a consequence, I got **$200** bounty with identification number of **KVE-2019-0055.**  
-* **Sahmyook University**   
+* [**Sahmyook University**](https://syu.ac.kr)  
     Reflected XSS - December 26, 2018  
-* **Kakao I Translator**  
+* [**Kakao I Translator**](https://translate.kakao.com/)  
     Reflected XSS - December 24, 2018   
-* **NAVER Corp. - Dictionary**   
+* [**NAVER Corp. - Dictionary**](https://dict.naver.com/)  
     Reflected XSS - December 24, 2018   
 
