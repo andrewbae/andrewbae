@@ -19,12 +19,20 @@ Ask me about anything [here](https://github.com/andrewbae/andrewbae/issues)
 ![Andrew Bae's github stats](https://github-readme-stats.vercel.app/api?username=andrewbae&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ### Bug Hunting
+* CENSORED  
+    Blind SQL Injection  
+* CENSORED  
+    I discovered **Stored XSS** and **MITM** vulnerable at CENSORED in December 14, 2020. As a consequence, I got two identification number of **KVE-2020-1583**, **KVE-2020-1584**.  
+    🕓 December 14, 2020
 * [**NAVER Corp. - Smart Editor ONE**](https://blog.naver.com)  
     I discovered **Stored XSS** vulnerable at **SmartEditor ONE** in January 08, 2019. As a consequence, I got **$200** bounty with identification number of **KVE-2019-0055.**  
+    🕓 January 08, 2019
 * [**Sahmyook University**](https://syu.ac.kr)  
-    Reflected XSS - December 26, 2018  
+    Reflected XSS  
+    🕓 December 24, 2018
 * [**Kakao I Translator**](https://translate.kakao.com/)  
-    Reflected XSS - December 24, 2018   
+    Reflected XSS  
+    🕓 December 24, 2018
 * [**NAVER Corp. - Dictionary**](https://dict.naver.com/)  
-    Reflected XSS - December 24, 2018   
-
+    Reflected XSS  
+    🕓 December 24, 2018
