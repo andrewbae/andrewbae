@@ -18,7 +18,7 @@ Every moment when I succeed to exploit something, that sense of achievement make
 Ask me about anything [here](https://github.com/andrewbae/andrewbae/issues)  
 
 ### Bug Hunting
-* [**The Camp**](thecamp.or.kr)  
+* [**The Camp**](https://thecamp.or.kr)  
     The Camp provides a communication service between the military and civilians.    
     I discovered **Stored XSS** and **MITM** vulnerabilities in December 14, 2020. As a consequence, I got two identification number of **KVE-2020-1583**, **KVE-2020-1584**.  
 * [**NAVER Corp. - Smart Editor ONE**](https://blog.naver.com)  
