@@ -30,3 +30,6 @@ Ask me about anything [here](https://github.com/andrewbae/andrewbae/issues)
     Reflected XSS - December 24, 2018  
 * [**NAVER Corp. - Dictionary**](https://dict.naver.com/)  
     Reflected XSS - December 24, 2018  
+
+- **White-Hats Break the Syntax CTF - 13th out of 160 teams**  
+	Sat, 13 March 2021, 00:00 KST — Mon, 15 March 2021, 00:00 KST
