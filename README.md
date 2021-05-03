@@ -24,8 +24,6 @@ Ask me about anything [here](https://github.com/andrewbae/andrewbae/issues)
 * [**NAVER Corp. - Smart Editor ONE**](https://blog.naver.com)  
     NAVER is the well-known search engine within Korea while Google is the first-ranked search engine in most countries.  
     I discovered **Stored XSS** vulnerability at **SmartEditor ONE** in January 08, 2019. As a consequence, I got **$200** bounty with identification number of **KVE-2019-0055.**  
-* [**Sahmyook University**](https://syu.ac.kr)  
-    Reflected XSS - December 24, 2018  
 * [**Kakao I Translator**](https://translate.kakao.com/)  
     Reflected XSS - December 24, 2018  
 * [**NAVER Corp. - Dictionary**](https://dict.naver.com/)  
