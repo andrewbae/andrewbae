@@ -19,7 +19,7 @@ Ask me about anything [here](https://github.com/andrewbae/andrewbae/issues)
 
 ### Bug Hunting
 * [**Saramin**](https://saramin.co.kr)  
-	The **Saramin** is a well-known **job search** website within Korea. I discovered a **Stored XSS** and **Reflected XSS** vulnerabilities on May 4, 2021. I was really surprised at the quick response. The vulnerability was patched within 3 hours. As a consequence, I got $20 worth of gifts and an appreciation message from Saramin.
+	The **Saramin** is a well-known **job search** website within Korea. I discovered a **Stored XSS** and **Reflected XSS** vulnerabilities on May 4, 2021. I was really surprised at the quick response. The vulnerability was patched within 2 hours. As a consequence, I got $20 worth of gifts and an appreciation message from Saramin.
 * [**The Camp**](https://thecamp.or.kr)  
     The Camp provides a communication service between the military and civilians.    
     I discovered **Stored XSS** and **MITM** vulnerabilities in December 14, 2020. As a consequence, I got two identification number of **KVE-2020-1583**, **KVE-2020-1584**.  
